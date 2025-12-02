@@ -46,7 +46,9 @@ Hi, I'm Curiel, a software developer with a focus on front-end development and u
 ### IDE 🖥️
 
 <div align="left">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vsc&logoColor=white" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white&logoColor=white" alt="Cursor logo"  />
+  <img src="https://img.shields.io/badge/Vim-%2311AB00?style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo"  />
 </div>
 
 ### Hosting and Deploy 🚀
