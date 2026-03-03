@@ -80,6 +80,11 @@ Hi, I'm Curiel, a software developer with a focus on front-end development and u
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom logo" />
 </div>
 
+### Streak Stats
+<a href="https://github.com/AlejandroCuriel">
+  <img height=250 align="center" src="https://streak-stats.demolab.com/?user=AlejandroCuriel&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
+</a>
+
 -------------
 
 ## Contact me 🗣️
