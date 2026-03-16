@@ -1,7 +1,29 @@
-## About me 👩🏽‍💻
-Hi, I'm Curiel, a software developer with a focus on front-end development and user experience. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React.js and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
+<h1 align="center">Hi 👋, I'm Curiel, a software developer</h1>
+
+<h2 align="center">Welcome to my profile my name is Jorge Alejandro Curiel Galindo software developer specialized in front-end development and user experience. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React.js and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.</h2>
+
+<img align="right" alt="GIF" src="https://github.com/AlejandroCuriel/AlejandroCuriel/blob/main/computer.gif?raw=true" width="280px" style="border-radius: 6px;"/>
+
+### 🧐 More About Me:
+
+- 🚀 Web developer passionate about building modern and scalable applications.
+
+- ⚡ Interested in web performance and best development practices.
+
+- 🎨 I enjoy creating modern interfaces with smooth animations and great UX.
+
+- 🧠 I like solving logical challenges and complex problems.
+
+- 📚 Constantly learning new web technologies and tools.
+
+- 📫 How to reach me **<a href="email:alex_curielg@hotmail.com"></a>alex_curielg@hotmail.com**
+
+<img align="left" alt="GIF" src="https://github.com/AlejandroCuriel/AlejandroCuriel/blob/main/animation_500_kzra04cn.gif?raw=true" width="280px" style="border-radius: 6px;"/>
+
+<hr>
 
 ## Technologies 🚀
+
 ### Programming Languages 💻
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"  />
@@ -87,6 +109,19 @@ Hi, I'm Curiel, a software developer with a focus on front-end development and u
 
 -------------
 
+### 🍂 Git stage:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroCuriel&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCuriel&card_width=1060&layout=normal&theme=github_dark)
+
+
+<br>
+
+### 🏆 My GitHub Profile Trophies:
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AlejandroCuriel&theme=onestar&margin-w=40&margin-h=20)](https://github.com/AlejandroCuriel/github-profile-trophy)
+<br>
+
 ## Contact me 🗣️
 <div align="left">
   <a href="https://www.linkedin.com/in/jorge-curiel/" target="_blank">
@@ -94,4 +129,4 @@ Hi, I'm Curiel, a software developer with a focus on front-end development and u
   </a>
 </div>
 
-###
+<br>
