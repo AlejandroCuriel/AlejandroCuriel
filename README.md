@@ -23,6 +23,7 @@ I enjoy challenging myself to learn new technologies and strive to grow continuo
 - 📫 Reach me at **<alex_curielg@hotmail.com>**
 
 🔭 Currently working on: Building modern web applications with React and TypeScript
+
 🌱 Currently learning: Advanced performance optimization and modern frontend architecture
 
 ---
